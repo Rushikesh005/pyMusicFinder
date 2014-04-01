@@ -1,4 +1,4 @@
 pyMusicFinder
 =============
 
-Python API to find music by TV shows, Movies and artists.
+Python API to find music by TV shows, Movies and artists.1
